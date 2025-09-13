@@ -59,7 +59,7 @@ def main():
 
                     case 0:
                         print("Volviendo al menú principal...")
-                        # tienda.guardarDatos()
+                        tienda.guardarDatos()
                         break
 
                     case _:
@@ -106,7 +106,7 @@ def main():
 
                     case 0:
                         print("Volviendo al menú principal...")
-                        # tienda.guardarDatos()
+                        tienda.guardarDatos()
                         break
 
                     case _:
@@ -151,7 +151,7 @@ def main():
 
                     case 0:
                         print("Volviendo al menú principal...")
-                        # tienda.guardarDatos()
+                        tienda.guardarDatos()
                         break
 
                     case _:
@@ -195,7 +195,7 @@ def main():
 
                     case 0:
                         print("Volviendo al menú principal...")
-                        # tienda.guardarDatos()
+                        tienda.guardarDatos()
                         break
 
                     case _:
@@ -233,7 +233,7 @@ def main():
         
                     case 0:
                         print("Volviendo al menú principal...")
-                        # tienda.guardarDatos()
+                        tienda.guardarDatos()
                         break
                     case _:
                         print("Opción no válida. Por favor, seleccione una opción válida.")
@@ -280,7 +280,7 @@ def main():
                     os.system("pause")
 
                 case 0:
-                    # tienda.guardarDatos()
+                    tienda.guardarDatos()
                     print("Saliendo del programa...")
                     break
 
